@@ -6,6 +6,7 @@ Tool used for translating UML files into YANG files
 
 ### UML2YANG Tool
 - 1.0.0-poc5.180814.0705 : [MW-model UML2YANG](./MW-model%20UML2YANG.zip)
+- 1.0.0-poc5.181009.1456 : [MW-EthPHY UML2YANG](./MW-EthPHY%20UML2YANG.zip)
 
 ### Post Processing Shell Script
 - 1.0.0-poc5.181018.1335 : [ShellScripts](./ShellScripts.zip)
